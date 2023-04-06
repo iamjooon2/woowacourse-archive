@@ -1,7 +1,7 @@
 # 🚀 woowacourse-archive
 
 <p align="center">
-    <img src='./img/poster.jpeg' width="65%">
+    <img src='./img/poster.jpeg' width="55%">
 </p>
 
 > [우아한테크코스](https://woowacourse.github.io/) 5기에서 학습한 내용을 정리하는 저장소
@@ -37,17 +37,17 @@
 
 ## 🧩 Level 1 : TDD, OOP, Refactoring, Clean Code
 ### 기간
-- 2023.02.07 – 2021.03.31
+- 2023.02.07 – 2023.03.31
 
 
 ### 진행 미션
-|Project |Repository |Pull Request |
-|:------:|:---------:|:-----------:|
-|자동차 경주 게임/step1|[java-racingcar/step1](https://github.com/iamjooon2/java-racingcar/tree/step1)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/435)|
-|자동차 경주 게임/step2|[java-racingcar/step2](https://github.com/iamjooon2/java-racingcar/tree/step2)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/545)|
-|사다리 타기/step1|[java-ladder/step1](https://github.com/iamjooon2/java-ladder/tree/step1)|[Pull Request](https://github.com/woowacourse/java-ladder/pull/121)|
-|사다리 타기/step2|[java-ladder/step2](https://github.com/iamjooon2/java-ladder/tree/step2)|[Pull Request](https://github.com/woowacourse/java-ladder/pull/183)|
-|블랙잭/step1|[java-blackjack/step1](https://github.com/iamjooon2/java-blackjack/tree/step1)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/405)|
-|블랙잭/step2|[java-blackjack/step2](https://github.com/iamjooon2/java-blackjack/tree/step2)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/504)| 
-|체스/step1|[java-chess/step1](https://github.com/iamjooon2/java-chess/tree/step1)|[Pull Request](https://github.com/woowacourse/java-chess/pull/443)|
-|체스/step2|[java-chess/step2](https://github.com/iamjooon2/java-chess/tree/step2)|[Pull Request](https://github.com/woowacourse/java-chess/pull/557)|
+|Project |Repository |Pair|Pull Request |
+|:------:|:---------:|:---:|:-----------:|
+|자동차 경주 게임/step1|[java-racingcar/step1](https://github.com/iamjooon2/java-racingcar/tree/step1)|[주드](https://github.com/kevstevie)|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/435)|
+|자동차 경주 게임/step2|[java-racingcar/step2](https://github.com/iamjooon2/java-racingcar/tree/step2)|[]()|[Pull Request](https://github.com/woowacourse/java-racingcar/pull/545)|
+|사다리 타기/step1|[java-ladder/step1](https://github.com/iamjooon2/java-ladder/tree/step1)|[말랑](https://github.com/shin-mallang)|[Pull Request](https://github.com/woowacourse/java-ladder/pull/121)|
+|사다리 타기/step2|[java-ladder/step2](https://github.com/iamjooon2/java-ladder/tree/step2)||[]()[Pull Request](https://github.com/woowacourse/java-ladder/pull/183)|
+|블랙잭/step1|[java-blackjack/step1](https://github.com/iamjooon2/java-blackjack/tree/step1)|[연어](https://github.com/nuyh99)|[Pull Request](https://github.com/woowacourse/java-blackjack/pull/405)|
+|블랙잭/step2|[java-blackjack/step2](https://github.com/iamjooon2/java-blackjack/tree/step2)||[]()[Pull Request](https://github.com/woowacourse/java-blackjack/pull/504)| 
+|체스/step1|[java-chess/step1](https://github.com/iamjooon2/java-chess/tree/step1)|[허브](https://github.com/greeng00se)|[Pull Request](https://github.com/woowacourse/java-chess/pull/443)|
+|체스/step2|[java-chess/step2](https://github.com/iamjooon2/java-chess/tree/step2)||[]()[Pull Request](https://github.com/woowacourse/java-chess/pull/557)|
