@@ -65,7 +65,7 @@
 |웹 자동차 경주/step1|[jwp-racingcar/step1](https://github.com/iamjooon2/jwp-racingcar/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-racingcar/pull/50)|[후추](https://github.com/combi153)
 |웹 자동차 경주/step2|[jwp-racingcar/step2](https://github.com/iamjooon2/jwp-racingcar/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-racingcar/pull/137)|
 |장바구니/step1|[jwp-shopping-cart/step1](https://github.com/iamjooon2/jwp-shopping-cart/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/251)|[후추](https://github.com/combi153),[메리](https://github.com/swonny)|
-|장바구니/step2|[jwp-shopping-cart/step2](https://github.com/iamjooon2/atdd-subway-map/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/315)|
+|장바구니/step2|[jwp-shopping-cart/step2](https://github.com/iamjooon2/jwp-shopping-cart/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/315)|
 |지하철/step1|[jwp-subway-path/step1](https://github.com/iamjooon2/jwp-subway-path/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-subway-path/pull/61)|[져니](https://github.com/cl8d)
 |지하철/step2|[jwp-subway-path/step2](https://github.com/iamjooon2/jwp-subway-path/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-subway-path/pull/170)|
 |장바구니 협업/step1|[jwp-shopping-order/step1](https://github.com/iamjooon2/jwp-shopping-order/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-shopping-order/pull/58)|[연어](https://github.com/nuyh99),[폴로](https://github.com/green-kong)|
