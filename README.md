@@ -76,7 +76,7 @@
 - 2023.06.23 – 
 
 ### 진행 프로젝트
-- [집사의고민](https://github.com/woowacourse-teams/2023zipgo)
+- [집사의고민](https://github.com/woowacourse-teams/2023-zipgo)
 
 ### 산출물
 - [웹 사이트](https://zipgo.pet/)
@@ -84,8 +84,8 @@
 
 ### 활동 내용
 #### 기여
-- [이슈](https://github.com/woowacourse-teams/2021-pick-git/issues?q=is%3Aissue+is%3Aclosed+assignee%3Aiamjooon2)
-- [PR](https://github.com/woowacourse-teams/2021-pick-git/pulls?q=is%3Apr+is%3Aclosed+assignee%3Aiamjooon2)
+- [이슈](https://github.com/woowacourse-teams/2023-zipgo/issues?q=is%3Aissue+is%3Aclosed+assignee%3Aiamjooon2)
+- [PR](https://github.com/woowacourse-teams/2023-zipgo/pulls?q=is%3Apr+is%3Aclosed+assignee%3Aiamjooon2)
 
 
 <!-- #### 발표
