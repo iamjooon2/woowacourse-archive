@@ -73,14 +73,13 @@
 
 ## 🌈 Level 3 : Team Project
 ### 기간
-- 2023.06.23 – 
+- 2023.06.23 – 2023.08.18
 
 ### 진행 프로젝트
 - [집사의고민](https://github.com/woowacourse-teams/2023-zipgo)
 
 ### 산출물
 - [웹 사이트](https://zipgo.pet/)
-- [기술 블로그](https://zip-go.github.io/)
 
 ### 활동 내용
 #### 기여
@@ -88,19 +87,29 @@
 - [PR](https://github.com/woowacourse-teams/2023-zipgo/pulls?q=is%3Apr+is%3Aclosed+assignee%3Aiamjooon2)
 
 
-<!-- #### 발표
-- [프로젝트 1차 데모 - 서비스 최종 기획, 팀 문화](https://www.youtube.com/watch?v=kMf7Zt5NEnI)
-- [프로젝트 2차 데모 - 이슈 및 완료 목록, 브랜치 전략, API 설계, 배포 자동화, 어플리케이션 데모 (발표자)](https://www.youtube.com/watch?v=2tsH6a-CFlQ&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
-- [프로젝트 3차 데모 - 이슈 및 완료 목록, 로깅 전략, API 문서화, 테스트 자동화, 도메인 연결, 어플리케이션 데모](https://www.youtube.com/watch?v=VOSoIIGjdI8&t=325s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
-- [프로젝트 4차 데모 - 이슈 및 완료 목록, 성능 리포트, 정적 분석 리포트, CloudWatch Logs 대시보드, 어플리케이션 데모](https://www.youtube.com/watch?v=dcPXY9-t4D8&t=447s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
-- [프로젝트 5차 데모 - 성능 테스트 및 개선, 새로운 기능, 어플리케이션 데모](https://www.youtube.com/watch?v=06esvMK9oY0&t=429s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
+<br/>
 
-### 블로그 포스팅
-- [[Spring] Spring MVC 흐름 (Spring MVC Flow)](https://da-nyee.github.io/posts/spring-spring-mvc-flow/)
-- [[Spring] @SpringBootTest vs @DataJpaTest](https://da-nyee.github.io/posts/spring-springboottest-vs-datajpatest/)
-- [[Java] HashMap vs HashSet](https://da-nyee.github.io/posts/java-hashmap-vs-hashset/)
-- [[Network] OAuth 2.0 흐름 (OAuth 2.0 Flow)](https://da-nyee.github.io/posts/network-oauth2.0-flow/)
-- [[Git] Git Branch 전략 (Git Branch Strategy)](https://da-nyee.github.io/posts/git-git-branch-strategy/)
-- [[DevOps] SonarQube + JaCoCo](https://da-nyee.github.io/posts/devops-sonarqube-jacoco/) -->
+### 🪄 Level 4 : HTTP Server, MVC Framework, JDBC Template
+### 기간
+- 2023.08.29 – 2023.10.27
+
+
+### 진행 미션
+|Project |Repository |Pull Request |
+|:------:|:---------:|:-----------:|
+|톰캣 구현하기/step1|[jwp-dashboard-http/step1](https://github.com/iamjooon2/jwp-dashboard-http/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/366)|
+|톰캣 구현하기/step2|[jwp-dashboard-http/step2](https://github.com/iamjooon2/jwp-dashboard-http/tree/step34)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/434)
+|MVC 프레임워크 구현하기/step1|[jwp-dashboard-mvc/step1](https://github.com/iamjooon2/jwp-dashboard-mvc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/366)|
+|MVC 프레임워크 구현하기/step2|[jwp-dashboard-mvc/step2](https://github.com/iamjooon2/jwp-dashboard-mvc/tree/step22)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/461)|
+|JDBC 라이브러리 구현하기/step1|[jwp-dashboard-jdbc/step1](https://github.com/iamjooon2/jwp-dashboard-jdbc/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/284)|
+|JDBC 라이브러리 구현하기/step2|[jwp-dashboard-jdbc/step2](https://github.com/iamjooon2/jwp-dashboard-jdbc/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/396)|
+|JDBC 라이브러리 구현하기/step3|[jwp-dashboard-jdbc/step3](https://github.com/iamjooon2/jwp-dashboard-jdbc/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/451)|
+|JDBC 라이브러리 구현하기/step4|[jwp-dashboard-jdbc/step4](https://github.com/iamjooon2/jwp-dashboard-jdbc/tree/step4)|[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/523)|
+|레거시 코드 리팩터링/step1|[jwp-refactoring/step1](https://github.com/iamjooon2/jwp-refactoring/tree/step1)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/486)|
+|레거시 코드 리팩터링/step2|[jwp-refactoring/step2](https://github.com/iamjooon2/jwp-refactoring/tree/step2)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/608)|
+|레거시 코드 리팩터링/step3|[jwp-refactoring/step3](https://github.com/iamjooon2/jwp-refactoring/tree/step3)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/723)|
+|레거시 코드 리팩터링/step4|[jwp-refactoring/step4](https://github.com/iamjooon2/jwp-refactoring/tree/step4)|[Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/792)|
+
 
 <br/>
+
